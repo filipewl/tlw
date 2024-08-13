@@ -30,6 +30,13 @@ If you prefer not to change file permissions, you can run the script using the R
 ruby bin/smallest_temperature_spread data/w_dataa.dat
 ```
 
+Example of the output:
+
+```
+Day with the smallest temperature spread: 14
+Smallest temperature spread: 2 (Max 61 - Min 59)
+```
+
 ## Running the tests
 
 Install the dependencies with Bundler:
